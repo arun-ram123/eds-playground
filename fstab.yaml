@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:8443/bin/franklin.delivery/arunram-123/eds-playground/main"
+    url: "https://localhost:4502/bin/franklin.delivery/arunram-123/eds-playground/main"
     type: "markup"
     suffix: ".html"
